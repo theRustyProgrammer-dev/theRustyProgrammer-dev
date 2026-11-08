@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm theRustyProgrammer 👋
 
-<!--
-**theRustyProgrammer-dev/theRustyProgrammer-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learning embedded Rust. Currently building with **ESP32** and **STM32**.
 
-Here are some ideas to get you started:
+## 🔭 What I'm working on
+- ESP32: WiFi-connected sensor projects
+- STM32: Bare-metal learning with `embassy`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently learning
+- `esp-hal` for ESP32
+- `probe-rs` for flashing/debugging
+
+## 📫 Find me
+- GitHub: you're here
